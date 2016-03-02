@@ -1,0 +1,50 @@
+  body{
+	    
+	  background:  #d6d6c9
+  }
+  
+  h4{
+	  text-align: center;
+  } 
+  
+  img{
+	  width:150px;
+	  display: block;
+	  margin: 0 auto;
+  }
+
+  hr{
+	    width: 350px;
+  }
+  
+  ul{
+      padding-top: 10px;
+      margin-left: 30px;
+      line-height: 20px;
+  }
+
+  .main{
+    padding-top:5px;
+    margin:  auto;
+	   width: 1024px;
+    height: 600px;
+    background: #eeeee0;
+    border: solid 1px;
+    
+  
+
+  }
+
+  .total{
+    padding-top:32px;
+	 margin:  auto;
+	width: 400px;
+    height: 550px;
+    background: white;
+	
+ }
+
+  .block{
+    margin-left: 30px;
+    font-size: 10pt;
+ }
